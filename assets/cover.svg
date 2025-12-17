@@ -1,0 +1,29 @@
+<svg width="900" height="1280" viewBox="0 0 900 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#7C7BFF"/>
+    <stop offset="100%" stop-color="#4AE0FF"/>
+  </linearGradient>
+  <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="rgba(255,255,255,0.28)"/>
+    <stop offset="100%" stop-color="rgba(255,255,255,0.02)"/>
+  </linearGradient>
+</defs>
+<rect width="900" height="1280" rx="42" fill="#0A0C14"/>
+<rect x="40" y="40" width="820" height="1200" rx="32" fill="url(#g1)" opacity="0.14"/>
+<rect x="84" y="120" width="732" height="1040" rx="24" fill="#0F121C" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+<path d="M120 260C210 200 320 190 420 230C520 270 640 260 760 200" stroke="#7C7BFF" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+<path d="M140 360C240 300 340 320 430 360C520 400 640 410 760 340" stroke="#4AE0FF" stroke-width="5" stroke-linecap="round" opacity="0.5"/>
+<circle cx="200" cy="860" r="110" fill="url(#g1)" opacity="0.18"/>
+<circle cx="700" cy="920" r="140" fill="url(#g1)" opacity="0.12"/>
+<text x="140" y="470" fill="#E9ECF4" font-family="Inter, 'SF Pro Display', sans-serif" font-size="58" font-weight="700">Second Edition</text>
+<text x="140" y="540" fill="#9AA5C3" font-family="Inter, 'SF Pro Display', sans-serif" font-size="28" font-weight="600">全面升级 · 案例翻倍 · 流程图强化</text>
+<rect x="140" y="600" width="220" height="8" rx="4" fill="#7C7BFF"/>
+<rect x="140" y="630" width="420" height="8" rx="4" fill="#4AE0FF" opacity="0.8"/>
+<rect x="140" y="780" width="620" height="320" rx="18" fill="url(#g2)" stroke="rgba(255,255,255,0.12)" stroke-width="1.5"/>
+<text x="176" y="840" fill="#E9ECF4" font-family="Inter, 'SF Pro Display', sans-serif" font-size="24" font-weight="700">核心升级</text>
+<text x="176" y="880" fill="#9AA5C3" font-family="Inter, 'SF Pro Display', sans-serif" font-size="18" font-weight="500">· 案例数量翻倍，涵盖更多行业场景</text>
+<text x="176" y="910" fill="#9AA5C3" font-family="Inter, 'SF Pro Display', sans-serif" font-size="18" font-weight="500">· 全链路流程图，减少沟通成本</text>
+<text x="176" y="940" fill="#9AA5C3" font-family="Inter, 'SF Pro Display', sans-serif" font-size="18" font-weight="500">· 工具与清单更新至最新实践</text>
+</svg>
+
