@@ -1,5 +1,5 @@
 const ctaLinks = {
-  main: "#",
+  main: "写给同学的IT书2.pdf",
 };
 
 function wireCTA() {
